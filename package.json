@@ -25,24 +25,24 @@
   "author": "Arnout Kazemier",
   "license": "MIT",
   "dependencies": {
-    "extendable": "0.0.x",
+    "extendable": "~0.1.0",
     "load": "1.0.x"
   },
   "devDependencies": {
-    "browserchannel": "1.0.x",
-    "chai": "1.7.x",
+    "browserchannel": "~2.0.0",
+    "chai": "~3.5.0",
     "engine.io": "git://github.com/3rd-Eden/engine.io.git#issue/178",
-    "engine.io-client": "0.6.x",
+    "engine.io-client": "~1.8.0",
     "jsonh": "0.0.x",
-    "mocha": "1.11.x",
-    "pre-commit": "0.0.x",
-    "socket.io": "0.9.x",
-    "socket.io-client": "0.9.x",
+    "mocha": "~3.1.2",
+    "pre-commit": "~1.1.3",
+    "socket.io": "~1.6.0",
+    "socket.io-client": "~1.6.0",
     "sockjs": "0.3.x",
-    "ws": "0.4.x",
-    "sockjs-client-node": "0.0.x",
-    "request": "2.21.x",
-    "binary-pack": "0.0.x",
+    "ws": "~1.1.1",
+    "sockjs-client-node": "~1.0.0",
+    "request": "~2.79.0",
+    "binary-pack": "~1.0.2",
     "e-json": "0.0.x"
   }
 }
